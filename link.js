@@ -1,1 +1,1 @@
-const offerLink = "https://v.ht/5vaUn";
+const offerLink = "https://v.ht/J1rCV";
